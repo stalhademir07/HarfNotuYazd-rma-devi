@@ -1,0 +1,7 @@
+C:\Users\stalh\source\repos\HarfNotuHesaplatmaOdevi.ConsoleApp\HarfNotuHesaplatmaOdevi.ConsoleApp\bin\Debug\HarfNotuHesaplatmaOdevi.ConsoleApp.exe.config
+C:\Users\stalh\source\repos\HarfNotuHesaplatmaOdevi.ConsoleApp\HarfNotuHesaplatmaOdevi.ConsoleApp\bin\Debug\HarfNotuHesaplatmaOdevi.ConsoleApp.exe
+C:\Users\stalh\source\repos\HarfNotuHesaplatmaOdevi.ConsoleApp\HarfNotuHesaplatmaOdevi.ConsoleApp\bin\Debug\HarfNotuHesaplatmaOdevi.ConsoleApp.pdb
+C:\Users\stalh\source\repos\HarfNotuHesaplatmaOdevi.ConsoleApp\HarfNotuHesaplatmaOdevi.ConsoleApp\obj\Debug\HarfNotuHesaplatmaOdevi.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\stalh\source\repos\HarfNotuHesaplatmaOdevi.ConsoleApp\HarfNotuHesaplatmaOdevi.ConsoleApp\obj\Debug\HarfNotuHesaplatmaOdevi.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\stalh\source\repos\HarfNotuHesaplatmaOdevi.ConsoleApp\HarfNotuHesaplatmaOdevi.ConsoleApp\obj\Debug\HarfNotuHesaplatmaOdevi.ConsoleApp.exe
+C:\Users\stalh\source\repos\HarfNotuHesaplatmaOdevi.ConsoleApp\HarfNotuHesaplatmaOdevi.ConsoleApp\obj\Debug\HarfNotuHesaplatmaOdevi.ConsoleApp.pdb
